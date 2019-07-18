@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seagull Rocks</title><description>RSS Feed for seagull.rocks</description><link>http://seagull.rocks/blog/rss.xml</link><atom:link href="http://seagull.rocks/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><lastBuildDate>Thu, 18 Jul 2019 21:28:37 +1200</lastBuildDate><pubDate>Thu, 18 Jul 2019 21:28:37 +1200</pubDate><ttl>1800</ttl><item><title>First Post</title><description>&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seagull Rocks</title><description>RSS Feed for seagull.rocks</description><link>http://seagull.rocks/blog/rss.xml</link><atom:link href="http://seagull.rocks/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><lastBuildDate>Thu, 18 Jul 2019 21:33:46 +1200</lastBuildDate><pubDate>Thu, 18 Jul 2019 21:33:46 +1200</pubDate><ttl>1800</ttl><item><title>First Post</title><description>&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
 </description><link>http://seagull.rocks/blog/first-post</link><guid>http://seagull.rocks/blog/first-post</guid></item><item><title>Second Post</title><description>&lt;ul&gt;
 &lt;li&gt;a list&lt;/li&gt;
 &lt;li&gt;of three&lt;/li&gt;
