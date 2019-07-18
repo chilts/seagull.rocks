@@ -1,4 +1,6 @@
 {
   "title": "Seagull Rocks",
-  "domain": "seagull.rocks"
+  "domain": "seagull.rocks",
+  "authorName" : "Andrew Chilton",
+  "authorEmail" : "andychilton@gmail.com"
 }
