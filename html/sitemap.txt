@@ -1,4 +1,4 @@
-http://seagull.rocks/about.html
-http://seagull.rocks/index.html
-http://seagull.rocks/blog/first-post.html
-http://seagull.rocks/blog/second-post.html
+https://seagull.rocks/about.html
+https://seagull.rocks/
+https://seagull.rocks/blog/first-post.html
+https://seagull.rocks/blog/second-post.html
