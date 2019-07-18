@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Seagull Rocks</title><link href="http://seagull.rocks/blog/atom.xml" rel="self"></link><updated>2019-07-18T08:40:03.627Z</updated><id>http://seagull.rocks/blog/</id><author></author><entry><title>Second Post</title><id>http://seagull.rocks/blog/second-post</id><link href="http://seagull.rocks/blog/second-post"></link><link href="http://seagull.rocks/blog/second-post" rel="self"></link><content type="html">* a list
+* of three
+* items
+</content><updated>1971-01-02T15:16:17.000Z</updated></entry><entry><title>First Post</title><id>http://seagull.rocks/blog/first-post</id><link href="http://seagull.rocks/blog/first-post"></link><link href="http://seagull.rocks/blog/first-post" rel="self"></link><content type="html">This is your __first__ post!
+</content><updated>1971-01-01T12:13:14.000Z</updated></entry></feed>
