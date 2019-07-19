@@ -16,10 +16,8 @@ html(lang="en")
 
   body(style="margin:0;padding:0;")
     nav(style="background-color:#ddd;padding:8px;")
-      a(style="margin:0 8px;" href="/") Home
-      a(style="margin:0 8px;" href="/blog/") Blog
-      a(style="margin:0 8px;" href="/blog/archive.html") Archive
-      a(style="margin:0 8px;" href="/about.html") About
+      for item in data.menu
+        a(style="margin:0 8px;" href=item.url)= item.title
 
     div(style="padding:16px;")
       block content
