@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Seagull Rocks</title><link href="http://seagull.rocks/blog/tag:distributed.atom" rel="self"></link><updated>2019-07-19T08:53:33.981Z</updated><id>http://seagull.rocks/blog/</id><author><name>Andrew Chilton</name><email>andychilton@gmail.com</email></author><entry><title>First Post</title><id>http://seagull.rocks/blog/first-post</id><link href="http://seagull.rocks/blog/first-post"></link><link href="http://seagull.rocks/blog/first-post" rel="self"></link><content type="html">&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
-</content><updated>1971-01-01T12:13:14.000Z</updated></entry><entry><title>Second Post</title><id>http://seagull.rocks/blog/second-post</id><link href="http://seagull.rocks/blog/second-post"></link><link href="http://seagull.rocks/blog/second-post" rel="self"></link><content type="html">&lt;p&gt;Here is a list:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Seagull Rocks</title><link href="http://seagull.rocks/blog/tag:distributed.atom" rel="self"></link><updated>2019-07-19T10:05:08.223Z</updated><id>http://seagull.rocks/blog/</id><author><name>Andrew Chilton</name><email>andychilton@gmail.com</email></author><entry><title>Second Post</title><id>http://seagull.rocks/blog/second-post</id><link href="http://seagull.rocks/blog/second-post"></link><link href="http://seagull.rocks/blog/second-post" rel="self"></link><content type="html">&lt;p&gt;Here is a list:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a list&lt;/li&gt;
 &lt;li&gt;of three&lt;/li&gt;
 &lt;li&gt;items&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;(Ends)&lt;/p&gt;
-</content><updated>1971-01-02T15:16:17.000Z</updated></entry></feed>
+</content><updated>1971-01-02T15:16:17.000Z</updated></entry><entry><title>First Post</title><id>http://seagull.rocks/blog/first-post</id><link href="http://seagull.rocks/blog/first-post"></link><link href="http://seagull.rocks/blog/first-post" rel="self"></link><content type="html">&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
+</content><updated>1971-01-01T12:13:14.000Z</updated></entry></feed>

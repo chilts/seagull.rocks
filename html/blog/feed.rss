@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seagull Rocks</title><description>RSS Feed for seagull.rocks</description><link>http://seagull.rocks/blog/</link><atom:link href="http://seagull.rocks/blog/feed.rss" rel="self" type="application/rss+xml"></atom:link><lastBuildDate>Fri, 19 Jul 2019 20:53:33 +1200</lastBuildDate><pubDate>Fri, 19 Jul 2019 20:53:33 +1200</pubDate><ttl>1800</ttl><item><title>First Post</title><description>&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
-</description><link>http://seagull.rocks/blog/first-post</link><guid>http://seagull.rocks/blog/first-post</guid></item><item><title>Second Post</title><description>&lt;p&gt;Here is a list:&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seagull Rocks</title><description>RSS Feed for seagull.rocks</description><link>http://seagull.rocks/blog/</link><atom:link href="http://seagull.rocks/blog/feed.rss" rel="self" type="application/rss+xml"></atom:link><lastBuildDate>Fri, 19 Jul 2019 22:05:08 +1200</lastBuildDate><pubDate>Fri, 19 Jul 2019 22:05:08 +1200</pubDate><ttl>1800</ttl><item><title>Second Post</title><description>&lt;p&gt;Here is a list:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a list&lt;/li&gt;
 &lt;li&gt;of three&lt;/li&gt;
 &lt;li&gt;items&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;(Ends)&lt;/p&gt;
-</description><link>http://seagull.rocks/blog/second-post</link><guid>http://seagull.rocks/blog/second-post</guid></item></channel></rss>
+</description><link>http://seagull.rocks/blog/second-post</link><guid>http://seagull.rocks/blog/second-post</guid></item><item><title>First Post</title><description>&lt;p&gt;This is your &lt;strong&gt;first&lt;/strong&gt; post!&lt;/p&gt;
+</description><link>http://seagull.rocks/blog/first-post</link><guid>http://seagull.rocks/blog/first-post</guid></item></channel></rss>
