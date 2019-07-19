@@ -2,6 +2,6 @@ extends layout
 
 block content
   h2= self.title
-  p Author: #{self.author}
-  | !{self.html}
+  p Author: #{cfg.authorName}
+  div !{self.html}
   p= self.published.toISOString()
