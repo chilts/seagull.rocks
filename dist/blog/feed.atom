@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Seagull Rocks</title><link href="http://seagull.rocks/blog/feed.atom" rel="self"></link><updated>1970-01-01T00:00:00.002Z</updated><id>http://seagull.rocks/blog/</id><author><name>Andrew Chilton</name><email>andychilton@gmail.com</email></author><entry><title>Second Post</title><id>http://seagull.rocks/blog/second-post</id><link href="http://seagull.rocks/blog/second-post"></link><link href="http://seagull.rocks/blog/second-post" rel="self"></link><content type="html">&lt;p&gt;Here is a list:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Seagull Rocks</title><link href="http://seagull.rocks/blog/feed.atom" rel="self"></link><updated>1970-01-01T00:00:00.000Z</updated><id>http://seagull.rocks/blog/</id><author><name>Andrew Chilton</name><email>andychilton@gmail.com</email></author><entry><title>Second Post</title><id>http://seagull.rocks/blog/second-post</id><link href="http://seagull.rocks/blog/second-post"></link><link href="http://seagull.rocks/blog/second-post" rel="self"></link><content type="html">&lt;p&gt;Here is a list:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a list&lt;/li&gt;
 &lt;li&gt;of three&lt;/li&gt;
